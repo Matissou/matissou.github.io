@@ -285,6 +285,7 @@ img.thumbnail {
   position: absolute;
   right: 0;
   top: 0;
+  display: none;
 }
 .is-overflow-x-auto {
   overflow-x: auto !important;
