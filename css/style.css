@@ -278,6 +278,7 @@ img.thumbnail {
 }
 .is-7by1 {
   padding-top: 42.8%;
+  display: none;
 }
 .is-7by1 img {
   bottom: 0;
