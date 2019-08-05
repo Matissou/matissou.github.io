@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>matissou.github.io/about/</loc>
+    <loc>https://matissou.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>matissou.github.io/blog/</loc>
+    <loc>https://matissou.github.io/blog/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>matissou.github.io/categories/</loc>
+    <loc>https://matissou.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>matissou.github.io/</loc>
+    <loc>https://matissou.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>matissou.github.io/blog/test/</loc>
+    <loc>https://matissou.github.io/blog/test/</loc>
   </url>
   
   <url>
-    <loc>matissou.github.io/tags/</loc>
+    <loc>https://matissou.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
