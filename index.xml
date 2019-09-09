@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matisse Landais</title>
-    <link>http://example.org/</link>
+    <link>https://matissou.github.io/</link>
     <description>Recent content on Matisse Landais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Sep 2019 12:56:20 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://matissou.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello world</title>
-      <link>http://example.org/posts/first-post/</link>
+      <link>https://matissou.github.io/posts/first-post/</link>
       <pubDate>Mon, 09 Sep 2019 12:56:20 +0200</pubDate>
       
-      <guid>http://example.org/posts/first-post/</guid>
+      <guid>https://matissou.github.io/posts/first-post/</guid>
       <description>Hello ! My name is Matisse and this is my first blog post on this website. It&amp;rsquo;s also a copy of what you can find on the home page of this website. The purpose of it is to present myself and what I will (possibly) write on this blog.
  Who are you ?
  I&amp;rsquo;m 21, studying computer science and bioinformatics. I love reading books, dev and debate. I run and play badminton sometimes, like son cubano, jazz and bossa nova music.</description>
