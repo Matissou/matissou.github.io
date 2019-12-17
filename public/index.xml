@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matisse Landais</title>
+    <link>https://matissel.github.io/</link>
+    <description>Recent content on Matisse Landais</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Sep 2019 20:17:49 +0200</lastBuildDate>
+    
+	<atom:link href="https://matissel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AI in Journalism : from Sci-Fi to the real world</title>
+      <link>https://matissel.github.io/posts/journalism-ia/</link>
+      <pubDate>Mon, 09 Sep 2019 20:17:49 +0200</pubDate>
+      
+      <guid>https://matissel.github.io/posts/journalism-ia/</guid>
+      <description>Two millions. This is the number of articles, newspapers and blog posts on a daily basis accross the world. Everyday, there are more and more contents on the Internet, from a simple individual post to a worldwide article about Trump’s last mood. In the writing process, thousands of journalists are using their best ideas to create the perfect mixup. Their goal is not only to inform the reader but also to maintain his attention to generate profits.</description>
+    </item>
+    
+    <item>
+      <title>Why Snapchat Discover is awful</title>
+      <link>https://matissel.github.io/posts/snapshat-discover/</link>
+      <pubDate>Mon, 09 Sep 2019 19:48:59 +0200</pubDate>
+      
+      <guid>https://matissel.github.io/posts/snapshat-discover/</guid>
+      <description>Snapchat Discover We all know Snapchat for it&amp;rsquo;s ephemeral content. Filter to look like animals and babies, trophies when you spend half of your day sending photos to a specific person and &amp;hellip; Discover ! The third panel of Snapchat is the thing everyone was waiting for, as mentioned on a nice blog :
+ While Snapchat launched in late 2011, the Snapchat Discover feature didn’t come around until 2015, and thank goodness it did.</description>
+    </item>
+    
+    <item>
+      <title>Few Photos</title>
+      <link>https://matissel.github.io/posts/few-photos/</link>
+      <pubDate>Mon, 09 Sep 2019 14:03:03 +0200</pubDate>
+      
+      <guid>https://matissel.github.io/posts/few-photos/</guid>
+      <description>Few photos from Göteborg, Sweden Göteborg is the second biggest city in Sweden, with approxmatly half a million of citizens. It a humand sized city, with an archipelago and is more familial than Stockholm from my point of view. Their are many green places, like Botaniska garden (see photos), the natural reserve and all the garden accross the city. It&amp;rsquo;s not as much pricy as we could think ; food, transports and daily stuff (like coffee, beer &amp;hellip;) are like in France, but housing is really expensive and hard to find.</description>
+    </item>
+    
+    <item>
+      <title>Hello world</title>
+      <link>https://matissel.github.io/posts/first-post/</link>
+      <pubDate>Mon, 09 Sep 2019 12:56:20 +0200</pubDate>
+      
+      <guid>https://matissel.github.io/posts/first-post/</guid>
+      <description>Hello ! My name is Matisse and this is my first blog post on this website. It&amp;rsquo;s also a copy of what you can find on the home page of this website. The purpose of it is to present myself and what I will (possibly) write on this blog.
+ Who are you ?
+ I&amp;rsquo;m 21, studying computer science and bioinformatics. I love reading books, dev and debate. I run and play badminton sometimes, like son cubano, jazz and bossa nova music.</description>
+    </item>
+    
+  </channel>
+</rss>
